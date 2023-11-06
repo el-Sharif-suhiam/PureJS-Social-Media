@@ -1,3 +1,4 @@
+import { default as axios } from "axios";
 
 
 const cardsCont = document.getElementById("cards-container");
