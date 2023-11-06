@@ -1,3 +1,4 @@
+import { default as axios } from "axios";
 
   let userUrl =  new URLSearchParams(location.search);
   const userId = userUrl.get("id");
